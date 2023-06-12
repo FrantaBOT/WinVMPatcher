@@ -1,0 +1,3 @@
+[submodule "memflow"]
+	path = memflow
+	url = https://github.com/memflow/memflow
